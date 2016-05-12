@@ -1,0 +1,22 @@
+{
+  "name": "client_side_doubledouble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navyvet1125/client_side_doubledouble.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navyvet1125/client_side_doubledouble/issues"
+  },
+  "homepage": "https://github.com/navyvet1125/client_side_doubledouble#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
